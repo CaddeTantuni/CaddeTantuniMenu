@@ -1,0 +1,29 @@
+.english {
+    max-width: 1000px;
+    max-height: 600px;
+    float: right;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.turkce {
+    max-width: 1000px;
+    max-height: 600px;
+    float: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique; 
+    color: orangered;
+}
